@@ -7,4 +7,3 @@ pip install -r requirements.txt
 python loan_eligibility.py
 
 python -m streamlit run app.py
-
