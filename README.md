@@ -1,4 +1,4 @@
-git clone https://github.com/<your-username>/loan-eligibility.git
+git clone https://github.com/sushmithachindam7/loan-eligibility.git
 
 cd loan-eligibility
 
